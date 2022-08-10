@@ -80,7 +80,7 @@ class LabOneTests {
 	}
 	
 	@Test
-	void isPasswordValidTes3() {
+	void isPasswordValidTest3() {
 		assertFalse(labOne.isPasswordValid("vanier123"));
 	}
 	
